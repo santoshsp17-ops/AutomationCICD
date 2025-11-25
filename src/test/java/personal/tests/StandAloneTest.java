@@ -12,10 +12,12 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
+// Checking for auto trigger
+
 public class StandAloneTest {
 
 	public static void main(String args[]) throws InterruptedException {
-
+		
 		String ProductName = "ZARA COAT 3";
 		// WebDriverManager.firefoxdriver().setup();
 		System.setProperty("webdriver.gecko.driver",
