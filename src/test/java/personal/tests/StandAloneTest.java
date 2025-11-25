@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
-// Checking for auto trigger
+// Checking for auto trigger one more time
 
 public class StandAloneTest {
 
